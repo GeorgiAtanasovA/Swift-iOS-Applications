@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5698C07A-7736-4330-8798-9AE438822F4D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2286F37-A1B7-43F1-AC61-01D3B86DBBEB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2000"
+            endingLineNumber = "2000"
+            landmarkName = "InputTextView_DefaulColorAndState()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F2286F37-A1B7-43F1-AC61-01D3B86DBBEB - d82714a3b3086d04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.InputTextView_DefaulColorAndState() -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgia/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1995"
+                  endingLineNumber = "1995"
+                  offsetFromSymbolStart = "4006">
+               </Location>
+               <Location
+                  uuid = "F2286F37-A1B7-43F1-AC61-01D3B86DBBEB - d82714a3b3086d04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.InputTextView_DefaulColorAndState() -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgia/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1995"
+                  endingLineNumber = "1995"
+                  offsetFromSymbolStart = "3472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B162255-F788-433C-B6BF-4C4CA052599E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2355"
+            endingLineNumber = "2355"
+            landmarkName = "Load_NextOrLastLesson(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B162255-F788-433C-B6BF-4C4CA052599E - 18797bde30230f59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Load_NextOrLastLesson(Swift.String) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgia/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2356"
+                  endingLineNumber = "2356"
+                  offsetFromSymbolStart = "3964">
+               </Location>
+               <Location
+                  uuid = "3B162255-F788-433C-B6BF-4C4CA052599E - 18797bde30230f59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Load_NextOrLastLesson(Swift.String) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgia/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2356"
+                  endingLineNumber = "2356"
+                  offsetFromSymbolStart = "3600">
+               </Location>
+               <Location
+                  uuid = "3B162255-F788-433C-B6BF-4C4CA052599E - 18797bde30230f86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Load_NextOrLastLesson(Swift.String) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgia/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2355"
+                  endingLineNumber = "2355"
+                  offsetFromSymbolStart = "3600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

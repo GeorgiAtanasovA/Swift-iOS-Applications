@@ -1,0 +1,2195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4865BFB-8FFD-455B-B521-84DD04E11E14"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE38B3C9-B067-44E0-8873-4A687682E02D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2364"
+            endingLineNumber = "2364"
+            landmarkName = "MiddleBtnsSwapping_withFinger(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE38B3C9-B067-44E0-8873-4A687682E02D - d992f32da3587328"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2363"
+                  endingLineNumber = "2363"
+                  offsetFromSymbolStart = "4696">
+               </Location>
+               <Location
+                  uuid = "AE38B3C9-B067-44E0-8873-4A687682E02D - d992f32da35873c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2364"
+                  endingLineNumber = "2364"
+                  offsetFromSymbolStart = "4696">
+               </Location>
+               <Location
+                  uuid = "AE38B3C9-B067-44E0-8873-4A687682E02D - d992f32da35873c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2364"
+                  endingLineNumber = "2364"
+                  offsetFromSymbolStart = "3800">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55FF3EB2-1F37-4B35-A72B-633DAFC38255"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2369"
+            endingLineNumber = "2369"
+            landmarkName = "MiddleBtnsSwapping_withFinger(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55FF3EB2-1F37-4B35-A72B-633DAFC38255 - d992f32da3587075"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2368"
+                  endingLineNumber = "2368"
+                  offsetFromSymbolStart = "8299">
+               </Location>
+               <Location
+                  uuid = "55FF3EB2-1F37-4B35-A72B-633DAFC38255 - d992f32da3587016"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2369"
+                  endingLineNumber = "2369"
+                  offsetFromSymbolStart = "8299">
+               </Location>
+               <Location
+                  uuid = "55FF3EB2-1F37-4B35-A72B-633DAFC38255 - d992f32da3587016"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2369"
+                  endingLineNumber = "2369"
+                  offsetFromSymbolStart = "6664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40620712-04F7-4956-B518-8104A97E8861"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2374"
+            endingLineNumber = "2374"
+            landmarkName = "MiddleBtnsSwapping_withFinger(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "40620712-04F7-4956-B518-8104A97E8861 - d992f32da3587092"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2373"
+                  endingLineNumber = "2373"
+                  offsetFromSymbolStart = "11902">
+               </Location>
+               <Location
+                  uuid = "40620712-04F7-4956-B518-8104A97E8861 - d992f32da35870b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2374"
+                  endingLineNumber = "2374"
+                  offsetFromSymbolStart = "11902">
+               </Location>
+               <Location
+                  uuid = "40620712-04F7-4956-B518-8104A97E8861 - d992f32da35870b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2374"
+                  endingLineNumber = "2374"
+                  offsetFromSymbolStart = "9528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEF42FB3-B8AF-4681-85C9-8A3DE8379EE3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2379"
+            endingLineNumber = "2379"
+            landmarkName = "MiddleBtnsSwapping_withFinger(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BEF42FB3-B8AF-4681-85C9-8A3DE8379EE3 - d992f32da358713f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2378"
+                  endingLineNumber = "2378"
+                  offsetFromSymbolStart = "15505">
+               </Location>
+               <Location
+                  uuid = "BEF42FB3-B8AF-4681-85C9-8A3DE8379EE3 - d992f32da35871d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2379"
+                  endingLineNumber = "2379"
+                  offsetFromSymbolStart = "15505">
+               </Location>
+               <Location
+                  uuid = "BEF42FB3-B8AF-4681-85C9-8A3DE8379EE3 - d992f32da35871d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2379"
+                  endingLineNumber = "2379"
+                  offsetFromSymbolStart = "12392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04A5B62D-DF21-4D01-9175-298FED5571A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2385"
+            endingLineNumber = "2385"
+            landmarkName = "MiddleBtnsSwapping_withFinger(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "04A5B62D-DF21-4D01-9175-298FED5571A7 - d992f32da3587665"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2384"
+                  endingLineNumber = "2384"
+                  offsetFromSymbolStart = "19108">
+               </Location>
+               <Location
+                  uuid = "04A5B62D-DF21-4D01-9175-298FED5571A7 - d992f32da3587606"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2385"
+                  endingLineNumber = "2385"
+                  offsetFromSymbolStart = "19108">
+               </Location>
+               <Location
+                  uuid = "04A5B62D-DF21-4D01-9175-298FED5571A7 - d992f32da3587606"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2385"
+                  endingLineNumber = "2385"
+                  offsetFromSymbolStart = "15256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A2573BF-C4E5-4C76-96D4-D862D2354BC2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2390"
+            endingLineNumber = "2390"
+            landmarkName = "MiddleBtnsSwapping_withFinger(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A2573BF-C4E5-4C76-96D4-D862D2354BC2 - d992f32da3587682"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2389"
+                  endingLineNumber = "2389"
+                  offsetFromSymbolStart = "22393">
+               </Location>
+               <Location
+                  uuid = "8A2573BF-C4E5-4C76-96D4-D862D2354BC2 - d992f32da35876a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2390"
+                  endingLineNumber = "2390"
+                  offsetFromSymbolStart = "22393">
+               </Location>
+               <Location
+                  uuid = "8A2573BF-C4E5-4C76-96D4-D862D2354BC2 - d992f32da35876a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2390"
+                  endingLineNumber = "2390"
+                  offsetFromSymbolStart = "17856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DF3A0E0-A917-41A8-BE6A-0FF9761DD49F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2395"
+            endingLineNumber = "2395"
+            landmarkName = "MiddleBtnsSwapping_withFinger(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7DF3A0E0-A917-41A8-BE6A-0FF9761DD49F - d992f32da358772f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2394"
+                  endingLineNumber = "2394"
+                  offsetFromSymbolStart = "25678">
+               </Location>
+               <Location
+                  uuid = "7DF3A0E0-A917-41A8-BE6A-0FF9761DD49F - d992f32da35877c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2395"
+                  endingLineNumber = "2395"
+                  offsetFromSymbolStart = "25678">
+               </Location>
+               <Location
+                  uuid = "7DF3A0E0-A917-41A8-BE6A-0FF9761DD49F - d992f32da35877c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2395"
+                  endingLineNumber = "2395"
+                  offsetFromSymbolStart = "20456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F12C6435-A660-44C1-977E-CD31D453104E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2401"
+            endingLineNumber = "2401"
+            landmarkName = "MiddleBtnsSwapping_withFinger(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F12C6435-A660-44C1-977E-CD31D453104E - d992f32da3587415"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2400"
+                  endingLineNumber = "2400"
+                  offsetFromSymbolStart = "30301">
+               </Location>
+               <Location
+                  uuid = "F12C6435-A660-44C1-977E-CD31D453104E - d992f32da3587436"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2401"
+                  endingLineNumber = "2401"
+                  offsetFromSymbolStart = "30301">
+               </Location>
+               <Location
+                  uuid = "F12C6435-A660-44C1-977E-CD31D453104E - d992f32da3587436"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2401"
+                  endingLineNumber = "2401"
+                  offsetFromSymbolStart = "24144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B375A3B-F9DF-4F46-9071-34C28F9E62DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2432"
+            endingLineNumber = "2432"
+            landmarkName = "MiddleBtnsSwapping_withFinger(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B375A3B-F9DF-4F46-9071-34C28F9E62DD - d992f32da3587814"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2431"
+                  endingLineNumber = "2431"
+                  offsetFromSymbolStart = "46995">
+               </Location>
+               <Location
+                  uuid = "3B375A3B-F9DF-4F46-9071-34C28F9E62DD - d992f32da3587835"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2432"
+                  endingLineNumber = "2432"
+                  offsetFromSymbolStart = "46995">
+               </Location>
+               <Location
+                  uuid = "3B375A3B-F9DF-4F46-9071-34C28F9E62DD - d992f32da3587835"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2432"
+                  endingLineNumber = "2432"
+                  offsetFromSymbolStart = "36752">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CD6324D-0DF8-49E2-B6C2-3E80F20CBD5C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2733"
+            endingLineNumber = "2733"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Left(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8CD6324D-0DF8-49E2-B6C2-3E80F20CBD5C - e80f3df6dac2db23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2732"
+                  endingLineNumber = "2732"
+                  offsetFromSymbolStart = "1812">
+               </Location>
+               <Location
+                  uuid = "8CD6324D-0DF8-49E2-B6C2-3E80F20CBD5C - e80f3df6dac2db00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2733"
+                  endingLineNumber = "2733"
+                  offsetFromSymbolStart = "1812">
+               </Location>
+               <Location
+                  uuid = "8CD6324D-0DF8-49E2-B6C2-3E80F20CBD5C - e80f3df6dac2db00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2733"
+                  endingLineNumber = "2733"
+                  offsetFromSymbolStart = "1352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97A06DB8-C3B7-4247-A949-CD8277B14DA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2736"
+            endingLineNumber = "2736"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Left(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "97A06DB8-C3B7-4247-A949-CD8277B14DA4 - e80f3df6dac2db5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2735"
+                  endingLineNumber = "2735"
+                  offsetFromSymbolStart = "4974">
+               </Location>
+               <Location
+                  uuid = "97A06DB8-C3B7-4247-A949-CD8277B14DA4 - e80f3df6dac2dbbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2736"
+                  endingLineNumber = "2736"
+                  offsetFromSymbolStart = "4974">
+               </Location>
+               <Location
+                  uuid = "97A06DB8-C3B7-4247-A949-CD8277B14DA4 - e80f3df6dac2dbbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2736"
+                  endingLineNumber = "2736"
+                  offsetFromSymbolStart = "3800">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D713622D-30AE-42DA-A0C1-E914702EDB19"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2739"
+            endingLineNumber = "2739"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Left(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D713622D-30AE-42DA-A0C1-E914702EDB19 - e80f3df6dac2dbfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2738"
+                  endingLineNumber = "2738"
+                  offsetFromSymbolStart = "6680">
+               </Location>
+               <Location
+                  uuid = "D713622D-30AE-42DA-A0C1-E914702EDB19 - e80f3df6dac2dbda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2739"
+                  endingLineNumber = "2739"
+                  offsetFromSymbolStart = "6680">
+               </Location>
+               <Location
+                  uuid = "D713622D-30AE-42DA-A0C1-E914702EDB19 - e80f3df6dac2dbda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2739"
+                  endingLineNumber = "2739"
+                  offsetFromSymbolStart = "5088">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE347787-CB96-470C-9D2F-69F0928363A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2742"
+            endingLineNumber = "2742"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Left(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE347787-CB96-470C-9D2F-69F0928363A2 - e80f3df6dac2d818"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2741"
+                  endingLineNumber = "2741"
+                  offsetFromSymbolStart = "8386">
+               </Location>
+               <Location
+                  uuid = "FE347787-CB96-470C-9D2F-69F0928363A2 - e80f3df6dac2d879"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2742"
+                  endingLineNumber = "2742"
+                  offsetFromSymbolStart = "8386">
+               </Location>
+               <Location
+                  uuid = "FE347787-CB96-470C-9D2F-69F0928363A2 - e80f3df6dac2d879"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2742"
+                  endingLineNumber = "2742"
+                  offsetFromSymbolStart = "6376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26A0D6FA-634D-460D-BA3F-01E39D930409"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2745"
+            endingLineNumber = "2745"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Left(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "26A0D6FA-634D-460D-BA3F-01E39D930409 - e80f3df6dac2d8b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2744"
+                  endingLineNumber = "2744"
+                  offsetFromSymbolStart = "10092">
+               </Location>
+               <Location
+                  uuid = "26A0D6FA-634D-460D-BA3F-01E39D930409 - e80f3df6dac2d894"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2745"
+                  endingLineNumber = "2745"
+                  offsetFromSymbolStart = "10092">
+               </Location>
+               <Location
+                  uuid = "26A0D6FA-634D-460D-BA3F-01E39D930409 - e80f3df6dac2d894"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2745"
+                  endingLineNumber = "2745"
+                  offsetFromSymbolStart = "7664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BC62DAD-87A7-4628-A66F-210660BF32D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2752"
+            endingLineNumber = "2752"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Left(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7BC62DAD-87A7-4628-A66F-210660BF32D2 - e80f3df6dac2d9ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2751"
+                  endingLineNumber = "2751"
+                  offsetFromSymbolStart = "14878">
+               </Location>
+               <Location
+                  uuid = "7BC62DAD-87A7-4628-A66F-210660BF32D2 - e80f3df6dac2d98f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2752"
+                  endingLineNumber = "2752"
+                  offsetFromSymbolStart = "14878">
+               </Location>
+               <Location
+                  uuid = "7BC62DAD-87A7-4628-A66F-210660BF32D2 - e80f3df6dac2d98f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2752"
+                  endingLineNumber = "2752"
+                  offsetFromSymbolStart = "11352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56F196A0-9BA7-4FAE-A418-6CD265F362AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2757"
+            endingLineNumber = "2757"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Left(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56F196A0-9BA7-4FAE-A418-6CD265F362AC - e80f3df6dac2de0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2756"
+                  endingLineNumber = "2756"
+                  offsetFromSymbolStart = "15048">
+               </Location>
+               <Location
+                  uuid = "56F196A0-9BA7-4FAE-A418-6CD265F362AC - e80f3df6dac2de68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2757"
+                  endingLineNumber = "2757"
+                  offsetFromSymbolStart = "15048">
+               </Location>
+               <Location
+                  uuid = "56F196A0-9BA7-4FAE-A418-6CD265F362AC - e80f3df6dac2de68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2757"
+                  endingLineNumber = "2757"
+                  offsetFromSymbolStart = "11524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED92141B-DA19-4DE0-8B62-B9319D9E469B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2805"
+            endingLineNumber = "2805"
+            landmarkName = "Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ED92141B-DA19-4DE0-8B62-B9319D9E469B - 2a70eedee9764461"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2804"
+                  endingLineNumber = "2804"
+                  offsetFromSymbolStart = "1051">
+               </Location>
+               <Location
+                  uuid = "ED92141B-DA19-4DE0-8B62-B9319D9E469B - 2a70eedee9764442"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2805"
+                  endingLineNumber = "2805"
+                  offsetFromSymbolStart = "1051">
+               </Location>
+               <Location
+                  uuid = "ED92141B-DA19-4DE0-8B62-B9319D9E469B - 2a70eedee9764442"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2805"
+                  endingLineNumber = "2805"
+                  offsetFromSymbolStart = "940">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A7E57C0-CD5B-43A2-AD6A-D80E40C508AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2809"
+            endingLineNumber = "2809"
+            landmarkName = "Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A7E57C0-CD5B-43A2-AD6A-D80E40C508AC - 2a70eedee97644ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2808"
+                  endingLineNumber = "2808"
+                  offsetFromSymbolStart = "3755">
+               </Location>
+               <Location
+                  uuid = "9A7E57C0-CD5B-43A2-AD6A-D80E40C508AC - 2a70eedee97644ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2809"
+                  endingLineNumber = "2809"
+                  offsetFromSymbolStart = "3755">
+               </Location>
+               <Location
+                  uuid = "9A7E57C0-CD5B-43A2-AD6A-D80E40C508AC - 2a70eedee97644ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2809"
+                  endingLineNumber = "2809"
+                  offsetFromSymbolStart = "3176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A4B9D03-2ACF-4BA4-8E24-119B85657DDC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2812"
+            endingLineNumber = "2812"
+            landmarkName = "Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7A4B9D03-2ACF-4BA4-8E24-119B85657DDC - 2a70eedee9764508"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2811"
+                  endingLineNumber = "2811"
+                  offsetFromSymbolStart = "5267">
+               </Location>
+               <Location
+                  uuid = "7A4B9D03-2ACF-4BA4-8E24-119B85657DDC - 2a70eedee9764569"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2812"
+                  endingLineNumber = "2812"
+                  offsetFromSymbolStart = "5267">
+               </Location>
+               <Location
+                  uuid = "7A4B9D03-2ACF-4BA4-8E24-119B85657DDC - 2a70eedee9764569"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2812"
+                  endingLineNumber = "2812"
+                  offsetFromSymbolStart = "4432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1557E63-A8A6-4CA5-9007-A5902913E16F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2815"
+            endingLineNumber = "2815"
+            landmarkName = "Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1557E63-A8A6-4CA5-9007-A5902913E16F - 2a70eedee97645ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2814"
+                  endingLineNumber = "2814"
+                  offsetFromSymbolStart = "6779">
+               </Location>
+               <Location
+                  uuid = "A1557E63-A8A6-4CA5-9007-A5902913E16F - 2a70eedee97645f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2815"
+                  endingLineNumber = "2815"
+                  offsetFromSymbolStart = "6779">
+               </Location>
+               <Location
+                  uuid = "A1557E63-A8A6-4CA5-9007-A5902913E16F - 2a70eedee97645f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2815"
+                  endingLineNumber = "2815"
+                  offsetFromSymbolStart = "5688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14FD5242-1B1A-4CD3-B24D-8FBEDF8E6FE3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2819"
+            endingLineNumber = "2819"
+            landmarkName = "Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "14FD5242-1B1A-4CD3-B24D-8FBEDF8E6FE3 - 2a70eedee9764217"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2818"
+                  endingLineNumber = "2818"
+                  offsetFromSymbolStart = "8627">
+               </Location>
+               <Location
+                  uuid = "14FD5242-1B1A-4CD3-B24D-8FBEDF8E6FE3 - 2a70eedee9764270"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2819"
+                  endingLineNumber = "2819"
+                  offsetFromSymbolStart = "8627">
+               </Location>
+               <Location
+                  uuid = "14FD5242-1B1A-4CD3-B24D-8FBEDF8E6FE3 - 2a70eedee9764270"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2819"
+                  endingLineNumber = "2819"
+                  offsetFromSymbolStart = "7216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4EDC43F-5A7A-46F3-9E42-C389D8708946"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2822"
+            endingLineNumber = "2822"
+            landmarkName = "Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4EDC43F-5A7A-46F3-9E42-C389D8708946 - 2a70eedee97642b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2821"
+                  endingLineNumber = "2821"
+                  offsetFromSymbolStart = "10835">
+               </Location>
+               <Location
+                  uuid = "D4EDC43F-5A7A-46F3-9E42-C389D8708946 - 2a70eedee9764293"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2822"
+                  endingLineNumber = "2822"
+                  offsetFromSymbolStart = "10835">
+               </Location>
+               <Location
+                  uuid = "D4EDC43F-5A7A-46F3-9E42-C389D8708946 - 2a70eedee9764293"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2822"
+                  endingLineNumber = "2822"
+                  offsetFromSymbolStart = "9032">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD76A6D4-C2EB-4E63-9919-91994F86A3DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2825"
+            endingLineNumber = "2825"
+            landmarkName = "Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FD76A6D4-C2EB-4E63-9919-91994F86A3DA - 2a70eedee97642dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2824"
+                  endingLineNumber = "2824"
+                  offsetFromSymbolStart = "13043">
+               </Location>
+               <Location
+                  uuid = "FD76A6D4-C2EB-4E63-9919-91994F86A3DA - 2a70eedee976433e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2825"
+                  endingLineNumber = "2825"
+                  offsetFromSymbolStart = "13043">
+               </Location>
+               <Location
+                  uuid = "FD76A6D4-C2EB-4E63-9919-91994F86A3DA - 2a70eedee976433e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2825"
+                  endingLineNumber = "2825"
+                  offsetFromSymbolStart = "10848">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E81A39EB-DA22-47F3-B88F-22F8E1141F24"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2828"
+            endingLineNumber = "2828"
+            landmarkName = "Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E81A39EB-DA22-47F3-B88F-22F8E1141F24 - 2a70eedee9764378"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2827"
+                  endingLineNumber = "2827"
+                  offsetFromSymbolStart = "15251">
+               </Location>
+               <Location
+                  uuid = "E81A39EB-DA22-47F3-B88F-22F8E1141F24 - 2a70eedee9764359"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2828"
+                  endingLineNumber = "2828"
+                  offsetFromSymbolStart = "15251">
+               </Location>
+               <Location
+                  uuid = "E81A39EB-DA22-47F3-B88F-22F8E1141F24 - 2a70eedee9764359"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2828"
+                  endingLineNumber = "2828"
+                  offsetFromSymbolStart = "12664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DAEB2E8-9BD4-4014-926D-E3B3F518C40A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2417"
+            endingLineNumber = "2417"
+            landmarkName = "MiddleBtnsSwapping_withFinger(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DAEB2E8-9BD4-4014-926D-E3B3F518C40A - d992f32da3587a05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2416"
+                  endingLineNumber = "2416"
+                  offsetFromSymbolStart = "37878">
+               </Location>
+               <Location
+                  uuid = "4DAEB2E8-9BD4-4014-926D-E3B3F518C40A - d992f32da3587a26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2417"
+                  endingLineNumber = "2417"
+                  offsetFromSymbolStart = "37878">
+               </Location>
+               <Location
+                  uuid = "4DAEB2E8-9BD4-4014-926D-E3B3F518C40A - d992f32da3587a26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.MiddleBtnsSwapping_withFinger(__C.UIPanGestureRecognizer, __C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2417"
+                  endingLineNumber = "2417"
+                  offsetFromSymbolStart = "29892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "724BE92E-C0EB-4EBA-8A89-17FE29AEA62A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2801"
+            endingLineNumber = "2801"
+            landmarkName = "Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "724BE92E-C0EB-4EBA-8A89-17FE29AEA62A - 2a70eedee97647e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2800"
+                  endingLineNumber = "2800"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "724BE92E-C0EB-4EBA-8A89-17FE29AEA62A - 2a70eedee97647c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2801"
+                  endingLineNumber = "2801"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "724BE92E-C0EB-4EBA-8A89-17FE29AEA62A - 2a70eedee97647c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleButtonsIfSomeoneIsOutsideTheScreen(__C.UIButton) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2801"
+                  endingLineNumber = "2801"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F97A6E5-38BF-4867-97EF-DECC01032D57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2790"
+            endingLineNumber = "2790"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Right(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F97A6E5-38BF-4867-97EF-DECC01032D57 - 1453393b3c8d91fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2789"
+                  endingLineNumber = "2789"
+                  offsetFromSymbolStart = "14878">
+               </Location>
+               <Location
+                  uuid = "2F97A6E5-38BF-4867-97EF-DECC01032D57 - 1453393b3c8d911d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2790"
+                  endingLineNumber = "2790"
+                  offsetFromSymbolStart = "14878">
+               </Location>
+               <Location
+                  uuid = "2F97A6E5-38BF-4867-97EF-DECC01032D57 - 1453393b3c8d911d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2790"
+                  endingLineNumber = "2790"
+                  offsetFromSymbolStart = "11352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E948E86B-E125-4D54-AC30-497C5AB0E19C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2777"
+            endingLineNumber = "2777"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Right(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E948E86B-E125-4D54-AC30-497C5AB0E19C - 1453393b3c8d9f23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2776"
+                  endingLineNumber = "2776"
+                  offsetFromSymbolStart = "6680">
+               </Location>
+               <Location
+                  uuid = "E948E86B-E125-4D54-AC30-497C5AB0E19C - 1453393b3c8d9f40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2777"
+                  endingLineNumber = "2777"
+                  offsetFromSymbolStart = "6680">
+               </Location>
+               <Location
+                  uuid = "E948E86B-E125-4D54-AC30-497C5AB0E19C - 1453393b3c8d9f40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2777"
+                  endingLineNumber = "2777"
+                  offsetFromSymbolStart = "5088">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44022F96-841B-44CD-99EE-972365112D42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2774"
+            endingLineNumber = "2774"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Right(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "44022F96-841B-44CD-99EE-972365112D42 - 1453393b3c8d9fcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2773"
+                  endingLineNumber = "2773"
+                  offsetFromSymbolStart = "4974">
+               </Location>
+               <Location
+                  uuid = "44022F96-841B-44CD-99EE-972365112D42 - 1453393b3c8d9fed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2774"
+                  endingLineNumber = "2774"
+                  offsetFromSymbolStart = "4974">
+               </Location>
+               <Location
+                  uuid = "44022F96-841B-44CD-99EE-972365112D42 - 1453393b3c8d9fed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2774"
+                  endingLineNumber = "2774"
+                  offsetFromSymbolStart = "3800">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "056DF895-895E-4BB3-880A-1C9EE148002D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2770"
+            endingLineNumber = "2770"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Right(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "056DF895-895E-4BB3-880A-1C9EE148002D - 1453393b3c8d9c48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2769"
+                  endingLineNumber = "2769"
+                  offsetFromSymbolStart = "1812">
+               </Location>
+               <Location
+                  uuid = "056DF895-895E-4BB3-880A-1C9EE148002D - 1453393b3c8d9c69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2770"
+                  endingLineNumber = "2770"
+                  offsetFromSymbolStart = "1812">
+               </Location>
+               <Location
+                  uuid = "056DF895-895E-4BB3-880A-1C9EE148002D - 1453393b3c8d9c69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2770"
+                  endingLineNumber = "2770"
+                  offsetFromSymbolStart = "1352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67336E06-F9D0-4666-8CF0-A6BECCBA2ECA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2780"
+            endingLineNumber = "2780"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Right(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67336E06-F9D0-4666-8CF0-A6BECCBA2ECA - 1453393b3c8d9e86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2779"
+                  endingLineNumber = "2779"
+                  offsetFromSymbolStart = "8386">
+               </Location>
+               <Location
+                  uuid = "67336E06-F9D0-4666-8CF0-A6BECCBA2ECA - 1453393b3c8d9ea7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2780"
+                  endingLineNumber = "2780"
+                  offsetFromSymbolStart = "8386">
+               </Location>
+               <Location
+                  uuid = "67336E06-F9D0-4666-8CF0-A6BECCBA2ECA - 1453393b3c8d9ea7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2780"
+                  endingLineNumber = "2780"
+                  offsetFromSymbolStart = "6376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F68346EB-6B04-4476-B9E5-DCB312B48B4D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2783"
+            endingLineNumber = "2783"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Right(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F68346EB-6B04-4476-B9E5-DCB312B48B4D - 1453393b3c8d9ee5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2782"
+                  endingLineNumber = "2782"
+                  offsetFromSymbolStart = "10092">
+               </Location>
+               <Location
+                  uuid = "F68346EB-6B04-4476-B9E5-DCB312B48B4D - 1453393b3c8d9e3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2783"
+                  endingLineNumber = "2783"
+                  offsetFromSymbolStart = "10092">
+               </Location>
+               <Location
+                  uuid = "F68346EB-6B04-4476-B9E5-DCB312B48B4D - 1453393b3c8d9e3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2783"
+                  endingLineNumber = "2783"
+                  offsetFromSymbolStart = "7664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F79FF9C7-2048-48BF-B74B-8CEB7604E4BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2795"
+            endingLineNumber = "2795"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Right(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F79FF9C7-2048-48BF-B74B-8CEB7604E4BE - 1453393b3c8d9091"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2794"
+                  endingLineNumber = "2794"
+                  offsetFromSymbolStart = "15048">
+               </Location>
+               <Location
+                  uuid = "F79FF9C7-2048-48BF-B74B-8CEB7604E4BE - 1453393b3c8d90b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2795"
+                  endingLineNumber = "2795"
+                  offsetFromSymbolStart = "15048">
+               </Location>
+               <Location
+                  uuid = "F79FF9C7-2048-48BF-B74B-8CEB7604E4BE - 1453393b3c8d90b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Right(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2795"
+                  endingLineNumber = "2795"
+                  offsetFromSymbolStart = "11524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FC7386D-2EF3-47A5-8D1F-DFAB40356DBC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Learn Language/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2729"
+            endingLineNumber = "2729"
+            landmarkName = "Return_MiddleBtnsToDefaultPos_Left(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9FC7386D-2EF3-47A5-8D1F-DFAB40356DBC - e80f3df6dac2daa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2728"
+                  endingLineNumber = "2728"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "9FC7386D-2EF3-47A5-8D1F-DFAB40356DBC - e80f3df6dac2daa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2728"
+                  endingLineNumber = "2728"
+                  offsetFromSymbolStart = "151">
+               </Location>
+               <Location
+                  uuid = "9FC7386D-2EF3-47A5-8D1F-DFAB40356DBC - e80f3df6dac2da84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2729"
+                  endingLineNumber = "2729"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "9FC7386D-2EF3-47A5-8D1F-DFAB40356DBC - e80f3df6dac2da84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2729"
+                  endingLineNumber = "2729"
+                  offsetFromSymbolStart = "151">
+               </Location>
+               <Location
+                  uuid = "9FC7386D-2EF3-47A5-8D1F-DFAB40356DBC - e80f3df6dac2da84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2729"
+                  endingLineNumber = "2729"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "9FC7386D-2EF3-47A5-8D1F-DFAB40356DBC - e80f3df6dac2da84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Learn_Language.ViewController.Return_MiddleBtnsToDefaultPos_Left(__C.NSTimer) -&gt; ()"
+                  moduleName = "Learn Language"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgi/Desktop/iApps-Warning%20!!!/Learn%20Language%20-%20v5/Learn%20Language/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2729"
+                  endingLineNumber = "2729"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

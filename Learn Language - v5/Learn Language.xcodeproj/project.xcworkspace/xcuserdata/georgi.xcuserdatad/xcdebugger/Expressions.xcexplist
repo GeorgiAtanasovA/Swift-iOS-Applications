@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.MiddleBtnsSwapping_withFinger(_:_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.SplitLessonTextIntoSentencesArr():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.ChangeLanguageWhileLearning():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lessonSentencesAndWords_Arr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.ReadSelected_LessonFile():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Load_LearnSavedNewWords():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lessonFileName">
+            </PersistentString>
+            <PersistentString
+               value = "wordsForLearning_KeysAndTranslatedWords_Arr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.TransferWords_FromInputTextViewToInputTextView_Second():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "createdBtnsFromSentence_ButtonsArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Get_Indexs_WhenChangeTheLessonLevel(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.DeleteSelected_lessonFile():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lessonFileName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.FindText():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.ShowLearnedWords():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "learnedWords_Arr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:AppDelegate.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Connect_TwoPartsOfSentence():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.DeleteLearnedWords_KeysUserDefaults():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.CheckForThreeWords_InNextSentence():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.CreateButtonsFromSentencesWords():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "createBtnsFromTheSentence_StringArr">
+            </PersistentString>
+            <PersistentString
+               value = "sentenceAndWord_AfterShowingAllText">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.ClearTextField_Btn(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.webView(_:decidePolicyFor:decisionHandler:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.DeleteSelected_lessonFile(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "saveSettings_Dictionary.dictionaryRepresentation()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.I_KnowThisWord_Btn(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Sliding_NotPassCenterScreen_Default():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Info_LearnedWords():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Get_OnePartOfSentence():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.RemoveWordsButtonsFromView_Second():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "inputTextView_Second.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.AppendWords_SentenceLength():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Get_WholeSentencesFromTheLesson():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.CheckForEnd_InNextSentence():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Show_LearnedWords():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "words_forLearning_Str">
+            </PersistentString>
+            <PersistentString
+               value = "selectedLanguage_Str">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.textView(_:shouldInteractWith:in:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Delete_LearnedWords_Keys_UserDefaults_Dictionary():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Check_WorldsToLearnCount():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Stop_TranslatingNewWordsToLearn():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Connect_WholeSentenceFromLesson():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Get_HTML():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.CheckForThreeWords_InPrevSentence():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.Return_StartOfTheLesson():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "theSumOfConnectedSentences_Arr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.ShowStartText():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.End_DiamondMove_PanGesture(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Remove_WordsButtonsFromView_Second():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " inputTextView_Second.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.SentencesLength(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.SeeTranslation_AnimateClock():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "index_animatedClock">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Color_SetToAttributedText(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.Get_HTML():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.RemoveWordsButtonsFromView_One():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "inputTextView_Second.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.DownloadTheTextFile(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.CheckForEnd_InPrevSentence():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Get_ExtractedText():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.SeeTranslationAnimateClock_Parameters():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "count_nweWorldsToLearn">
+            </PersistentString>
+            <PersistentString
+               value = "selectedLanguage_Str">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.DeleteLearnedWords_KeysUserDefaults():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.SplitLessonTextIntoSentences(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.TransferWords_ToInputTextView():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Show_AllLessonText_FieldAnimate():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "posX_inputTextView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.HideAllLessonText_AndFieldAnimate():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "posX_inputTextField">
+            </PersistentString>
+            <PersistentString
+               value = "alphabetLettersArr">
+            </PersistentString>
+            <PersistentString
+               value = "alphabetBtnsArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Create_Button(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.webView(_:didFinish:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.Delete_AllLearnedWords():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "learnedWords_Arr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.SaveLesson_Method():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "alertMessgSaveProgs.textFields?.first?.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.SeparateTheLesson_IntoFiftySentences():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lessonFileName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
