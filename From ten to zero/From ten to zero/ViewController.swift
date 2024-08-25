@@ -39,7 +39,6 @@ class ViewController: UIViewController {
 
 		super.viewDidLoad()
 
-
       let startText = "Let's start!"//.components(separatedBy: " ")
       textView.text = startText
    }
