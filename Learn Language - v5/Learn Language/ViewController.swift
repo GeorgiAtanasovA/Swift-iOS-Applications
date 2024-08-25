@@ -16,7 +16,7 @@ class ViewController: UIViewController, UIWindowSceneDelegate, UITextViewDelegat
    var timer_showHide_AllLessonsText = Timer()
    var timer_seeTranslationAnimateClock = Timer()
    var timer_MiddleIconReturnCorrectPos = Timer()
-   //DispatchQueue.main.asyncAfter(deadline: .now() + 2.0) {code here} // -- Вместо Timer --
+   //Thread.sleep(forTimeInterval: 5)
    
    var getRandomIndex = 0
    var voiceChoice_Int = -1
